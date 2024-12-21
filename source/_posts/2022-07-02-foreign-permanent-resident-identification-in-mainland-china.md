@@ -32,7 +32,7 @@ China PR provides many upside abilities such as:
 
 *   Work and change jobs without an employer sponsoring a visa. A spousal visa does not provide this ability.
 *   Multiple entry into China for up to 10 years. A normal work visa is limited to your employment contracts which often are capped at 3 years and are tied to your employer.
-*   Entry into China even if a crisis often cancels other visa types. (COVID-19.... WW3-22, Zombies-23)
+*   Entry into China even if a crisis often cancels other visa types. (COVID-19...)
 *   Automated checkin at many airport, train, hotel and other terminals/IT systems (not all do)
 *   Open accounts (Bank, Cellphone, Wechat, Alipay, others)  (not all do)
 *   Travel around China without a passport (police registration may still require a passport for ID number)
@@ -48,13 +48,13 @@ Each province has its own exact rules, paperwork, and process. There are multipl
 
 Here is the 2022 form you will have to fill out, but you should go to the Exit Entry Building and obtain the latest version as it will likely update periodically.
 
-[Application-for-Permanent-Residence-in-China-2020.small\_](https://www.benchodroff.com/wp-content/uploads/2022/07/Application-for-Permanent-Residence-in-China-2020.small_.pdf)[Download](https://www.benchodroff.com/wp-content/uploads/2022/07/Application-for-Permanent-Residence-in-China-2020.small_.pdf)
+[Application-for-Permanent-Residence-in-China-2020.pdf](/2022/07/Application-for-Permanent-Residence-in-China-2020.small_.pdf)
 
 You must provide three identically completed applications in original form, as copies are not accepted of the application form itself. You must show the officer the original of the supporting evidence, and three photocopies for the submission - one for each application. I believe one application goes to the city (Guangzhou), another to the province (Guangdong), and another to the central government. Each is approved in order, and will take up to six months to complete from time of successful submission. The submission and all evidence is not provided online, so expect to have a mountain of printed paperwork.
 
 The exact documents required will depend on the type of category you choose. Certain categories, such as the High Talent category, will have their own applications and approvals at company, local, province, and central government levels. As such, you can expect even the pre-conditions to take _considerable_ time and cost to complete. I tried to ask the PSB for a digital copy of a book they gave me on the application process, but they said they did not have one because of "maybe national security concerns." Here is a copy of the book I took with my cellphone (apologies) as there appears to be no restrictions on the material. There is an exact Chinese version of the book at the end, which should be used in case the English is confusing, as the Chinese provides the exact regulations.
 
-[Service Manual for Foreign Personnel 2019](https://www.benchodroff.com/wp-content/uploads/2023/12/Service-Manual-for-Foreign-Personnel-2019-1.pdf)[Download](https://www.benchodroff.com/wp-content/uploads/2023/12/Service-Manual-for-Foreign-Personnel-2019-1.pdf)
+[Service Manual for Foreign Personnel 2019](/2022/07/Service-Manual-for-Foreign-Personnel-2019-1.pdf)
 
 End to end, from time of starting the process to completion it took me about 10 months. I already had many of the documents fully ready previously due to other visa applications. My China PR ID approval process took nearly exactly six months, as they advertised. Once you apply successfully, you will receive a submission confirmation paper with the application number. They assigned me a very courteous officer to handle the process, and was able to keep in touch via WeChat to check on the status.
 

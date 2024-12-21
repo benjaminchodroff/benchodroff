@@ -72,10 +72,10 @@ To the greyhat who notified me that I was compromised: thank you. I hope one day
 
 The world _is_ more friendly than it seems
 
-https://www.youtube.com/watch?v=C8rxSljl2PM&t=18s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C8rxSljl2PM?si=_4uu5LKSgbjt_btE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 PeeP an EIP: EIP-4736 Consensus Layer Withdrawal Protection
 
-https://www.youtube.com/watch?v=EWkGyorgpAg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EWkGyorgpAg?si=Lxhjt6o2G81N5kp-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 CLWP Presentation
