@@ -26,5 +26,5 @@ Here is my github repo with both the v1 and v20 sample code in jupyter notebooks
 [https://github.com/benjaminchodroff/oandamomentum](https://github.com/benjaminchodroff/oandamomentum)
 
 Here is the gist of my end result using the OANDA v20 API
-
+<script src="https://gist.github.com/benjaminchodroff/2243502e71bb06ae55d82e76ce1dc21f.js"></script>
 Thanks again, Dr. Hilpisch!

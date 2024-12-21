@@ -33,3 +33,5 @@ DISCLAIMER: Under no circumstances should this code be used in any safety or pro
 This code works on a set of moving windows to detect confirmed alarm beeps. My alarm beeps at 3500Hz with a regular interval. I used a fast fourier transform with numpy in python to isolate the most intense sounds. I then use quadratic interpolation to determine the frequency of the most intense sound wave. If enough "blips" fill a window to detect a "beep," and enough "beeps" fill a larger window, then the program indicates the alarm is active. If enough non-beep detected windows pass, it will clear the alarm detection.
 
 At some point I'll need to learn machine learning and teach it how to automatically recognize different types of alarms! Anyone have some tips?
+<script src="https://gist.github.com/benjaminchodroff/7d33a34e389c31a11aaa1ad16ba4c159.js"></script>
+

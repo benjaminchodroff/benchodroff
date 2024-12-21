@@ -26,3 +26,6 @@ You can explore the latest code in my repository here:
 Big thanks to the community building and supporting the python-bittrex python api liberary! [https://github.com/ericsomdahl/python-bittrex](https://github.com/ericsomdahl/python-bittrex)
 
 Happy trading!
+
+<script src="https://gist.github.com/benjaminchodroff/ca037379060de0f3b5f77e643be5215d.js"></script>
+
